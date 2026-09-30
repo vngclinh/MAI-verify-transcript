@@ -1,0 +1,9 @@
+pandas
+pyarrow
+huggingface_hub
+requests
+tqdm
+python-dotenv
+jiwer
+rapidfuzz
+tabulate

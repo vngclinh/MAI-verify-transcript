@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+
+datasets/
+outputs/
+tmp_empty_batch/
+
+*.parquet
+*.part
+*.tmp
+*.autosave.csv
+
+.ipynb_checkpoints/
+kaggle/working/
